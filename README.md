@@ -1,4 +1,4 @@
- ## OLá pessoas que vivem (ou não) neste planeta 👋
+ ## Olá pessoas que vivem (ou não) neste planeta 👋
 
 Sou um estudante do curso de Informática para Internet na ETEC de Santa Isabel
 
